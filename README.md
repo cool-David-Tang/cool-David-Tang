@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cool-David-Tang
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on the detection and classification of avian sounds
 - 📫 How to reach me --- cstangjinlong@outlook.com
